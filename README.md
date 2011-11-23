@@ -1,11 +1,8 @@
-This repo contains scripts used by the OpenStack Jenkins to perform tasks,
-the tarmac config used by Jenkins, as well as a a few scripts for creating
-new Jenkins slaves and additional utility nodes.
+This repo contains documentation and scripts for the OpenStack QA team.
 
-launch_node.py will launch a base node and add user accounts for everyone in
-the ~openstack-admins team
+Code review is managed via the Gerrit system on http://review.openstack.org.
+Please see http://wiki.openstack.org/GerritWorkflow for information about
+how to contribute to OpenStack projects using the Gerrit system.
 
-launch_slave.py will launch a node with everything it needs to perform basic
-jenkins slave tasks
-
-
+The documentation (see /doc) is published automatically to the
+http://qa.openstack.org site.
