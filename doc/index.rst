@@ -10,9 +10,9 @@ tests across the entire OpenStack project.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-  integration
+   integration
 
 Indices and tables
 ==================
