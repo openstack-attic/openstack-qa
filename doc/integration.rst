@@ -13,7 +13,7 @@ White box testing refers to tests where the test runner can access
 internal data structures (machine state) or algorithms in order to
 verify a specification.
 
-In black box testing, only the public API or other externally facing resources are ever called, since internal interfaces would give access to internal machine state, and the goal is typically to verify that a public API behaves according to its publically documented specification.
+In black box testing, only the public API or other externally facing resources are ever called, since internal interfaces would give access to internal machine state, and the goal is typically to verify that a public API behaves according to its publicly documented specification.
 
 The ``Tempest`` Project
 *******************************************
